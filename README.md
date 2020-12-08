@@ -1,5 +1,5 @@
 # EUserv_extend
-使用Github Action自动续期EUserv免费IPv6 VPS脚本2020.12.08
+使用Github Action自动续期EUserv免费IPv6 VPS脚本2020.12.08 88888
 
 ## 说明
 
